@@ -17,7 +17,6 @@ wget ...
 ## More info
 
 
-Direct link: https://chemedata.github.io/Repository-Figshare/
-Direct link: [link](https://chemedata.github.io/Repository-Figshare/)
-Direct link2: (link)[https://chemedata.github.io/Repository-Figshare/]
+Direct [link](https://chemedata.github.io/Repository-Figshare/): https://chemedata.github.io/Repository-Figshare/
+
 
