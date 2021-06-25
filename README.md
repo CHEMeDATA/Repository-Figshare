@@ -6,10 +6,15 @@ How to automatize extraction of data, metadata from Figshare, the repository use
 ... how can we find data using any kind of criteria
 ... what are the caracteristics, metadata available...
 
-## extract data
+## Download data
 
 example :
 
 ```
 wget ...
 ```
+
+## More info
+
+
+Direct link: https://chemedata.github.io/Repository-Figshare/
