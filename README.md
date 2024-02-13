@@ -12,6 +12,10 @@ example :
 
 ```
 wget ...
+curl -X GET "https://api.figshare.com/v2/articles/3000002" | json_pp -json_opt pretty,canonical>data/test.json
+curl -X GET "https://api.figshare.com/v2/articles/3000002" | json_pp -json_opt pretty,canonical>data/test.json
+wget "https://api.figshare.com/v2/articles/3000002" | json_pp -json_opt pretty,canonical>data/test.json
+
 ```
 
 Surprisingly, the first produces more hits that the later.
@@ -21,3 +25,4 @@ Surprisingly, the first produces more hits that the later.
 Direct [link](https://chemedata.github.io/Repository-Figshare/): https://chemedata.github.io/Repository-Figshare/
 
 
+https://github.com/mello99/figshare_API_client_python
